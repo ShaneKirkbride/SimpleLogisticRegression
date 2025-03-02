@@ -1,0 +1,3 @@
+C:/Users/shane/source/repos/SimpleLogisticRegression/SimpleLogisticRegression/build/CMakeFiles/SimpleLogisticRegression.dir
+C:/Users/shane/source/repos/SimpleLogisticRegression/SimpleLogisticRegression/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/shane/source/repos/SimpleLogisticRegression/SimpleLogisticRegression/build/CMakeFiles/ZERO_CHECK.dir
